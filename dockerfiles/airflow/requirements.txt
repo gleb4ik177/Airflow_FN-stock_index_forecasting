@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+psycopg2-binary
+apache-airflow-providers-postgres
+apache-airflow-providers-amazon
+mlflow
+backoff
+nltk
+seaborn
+cryptography==41.0.4
